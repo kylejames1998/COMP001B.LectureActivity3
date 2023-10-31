@@ -1,0 +1,13 @@
+nav, main, aside {
+    float: left;
+    width: 32%;
+    padding: .5%;
+}
+
+footer {
+    clear: both;
+}
+
+main, aside {
+    border-left: 2px solid green;
+}
